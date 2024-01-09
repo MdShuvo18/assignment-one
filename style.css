@@ -231,6 +231,101 @@
 
 }
 
+/* bouns section after section section */
+
+.best-offer-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.first-div h4 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 16px;
+}
+
+.first-div h3 {
+    width: 328px;
+    height: 60px;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: 22px;
+}
+
+.first-div p {
+    width: 393px;
+    height: 128px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+
+}
+
+.second-div {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    border: 10px solid red;
+}
+
+.second-div img {
+    border-radius: 364.844px;
+    background: lightgray -91.279px 0px / 150.038% 100% no-repeat;
+    width: 364.844px;
+    height: 364.844px;
+    border-radius: 463px;
+    margin: 18px;
+
+
+}
+
+.third-div h3 {
+    width: 126px;
+    height: 58px;
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 16px;
+}
+
+.third-div p {
+    width: 276px;
+    height: 96px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 43px;
+   
+}
+
+.third-div img{
+    width: 140px;
+    height: 140px;
+}
+
+
+
+
 /* section four */
 .context h4 {
     margin-top: 120px;
@@ -417,7 +512,7 @@
     border-color: rgba(255, 255, 255, 0.15);
     margin: 50px 140px;
 
-    
+
 }
 
 .social-icon {
@@ -444,18 +539,18 @@
     line-height: normal;
 }
 
-.lower-part{
+.lower-part {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
 
-.lower-right p{
+.lower-right p {
     margin-left: 140px;
     margin-bottom: 120px;
 }
 
-.lower-left p{
+.lower-left p {
     margin-right: 235px;
     margin-bottom: 120px;
 }
