@@ -231,7 +231,7 @@
 
 }
 
-/* bouns section after section section */
+/* bouns section after section three */
 
 .best-offer-section {
     display: flex;
@@ -316,12 +316,105 @@
     font-weight: 400;
     line-height: 32px;
     margin-bottom: 43px;
-   
+
 }
 
-.third-div img{
+.third-div img {
     width: 140px;
     height: 140px;
+}
+
+/* here is another bonus section */
+.second-bonus-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.second-bonus-div h3 {
+    width: 263px;
+    height: 29px;
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 16px;
+
+}
+
+.second-bonus-div span {
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.second-bonus-div h2 {
+    width: 677px;
+    height: 91px;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-bottom: 28px;
+}
+
+.second-bonus-div p {
+    width: 890px;
+    height: 96px;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    
+}
+
+.div-img0{
+    margin-left: 100px;
+
+}
+
+.div-0{
+    position: absolute;
+    margin-top: 220px;
+
+}
+
+.shuvo{
+    position: relative;
+    margin-top: 50px;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.div-img1{
+    position: relative;
+    margin-top: 80px;
+    margin-right: 280px;
+}
+
+.div-img2{
+    position: absolute;
+    z-index: -1;
+
+}
+
+.div-img3{
+    margin-top: 30px;
+    position: relative;
+    z-index: -1;
 }
 
 
