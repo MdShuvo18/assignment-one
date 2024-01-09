@@ -415,7 +415,9 @@
 .footer hr {
     width: 1320px;
     border-color: rgba(255, 255, 255, 0.15);
-    margin: 50px auto;
+    margin: 50px 140px;
+
+    
 }
 
 .social-icon {
@@ -454,6 +456,6 @@
 }
 
 .lower-left p{
-    margin-right: 140px;
+    margin-right: 235px;
     margin-bottom: 120px;
 }
